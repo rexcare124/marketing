@@ -49,16 +49,6 @@ export const team = {
     title: "Builders, designers and member champions",
     members: [
       {
-        name: "Ismael Lucero",
-        role: "Account Manager",
-        bio: "Helps every new member find the program that fits their life.",
-        image: photo(11),
-        socials: [
-          { label: "LinkedIn", href: "#" },
-          { label: "Instagram", href: "#" },
-        ],
-      },
-      {
         name: "Moises Banares",
         role: "Mobile Engineer",
         bio: "Builds iOS and Android apps that thousands of people use every day.",
