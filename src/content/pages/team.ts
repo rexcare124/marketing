@@ -81,8 +81,14 @@ export const team = {
         bio: "Keeps client projects on time and members in the loop.",
         image: photo(8),
         socials: [
-          { label: "LinkedIn", href: "#" },
-          { label: "Facebook", href: "#" },
+        ],
+      },
+      {
+        name: "Filip Iskra",
+        role: "Software Engineer",
+        bio: "Builds web and mobile apps that thousands of people use every day.",
+        image: photo(12),
+        socials: [
         ],
       },
     ] satisfies TeamMember[],
